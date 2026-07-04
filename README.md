@@ -94,23 +94,6 @@ Each project follows a structured methodology:
 
 ---
 
-## Future Projects
-
-Planned additions include:
-
-- Local File Inclusion (LFI)
-- Remote File Inclusion (RFI)
-- SQL Injection
-- Remote Code Execution (RCE)
-- WordPress Exploitation
-- Tomcat Exploitation
-- Jenkins Exploitation
-- Authentication Bypass
-- Command Injection
-- Directory Enumeration
-
----
-
 ## Disclaimer
 
 All activities documented in this repository were conducted in authorized laboratory environments for educational and ethical security testing purposes only.
